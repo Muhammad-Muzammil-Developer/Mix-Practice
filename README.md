@@ -1,1 +1,1 @@
-# Background-img and Header Practice
+# Mix Practices For Different Home page
